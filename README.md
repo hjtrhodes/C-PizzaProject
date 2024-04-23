@@ -4,7 +4,7 @@
 
 2. In your terminal:
 
-- cd Contoso Pizza
+- cd ContosoPizza
 - dotnet build
 - dotnet run
 
